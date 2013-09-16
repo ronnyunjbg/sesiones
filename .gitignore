@@ -1,0 +1,4 @@
+*.bat
+log.txt
+_*/
+helpers/session_old.php
